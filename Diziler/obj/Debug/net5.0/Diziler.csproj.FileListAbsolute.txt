@@ -1,0 +1,15 @@
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\Diziler.exe
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\Diziler.deps.json
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.json
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\Diziler.dll
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\ref\Diziler.dll
+C:\Users\ozlem\source\repos\Diziler\Diziler\bin\Debug\net5.0\Diziler.pdb
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.dll
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\ref\Diziler.dll
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.pdb
+C:\Users\ozlem\source\repos\Diziler\Diziler\obj\Debug\net5.0\Diziler.genruntimeconfig.cache
